@@ -1,3 +1,3 @@
-# CPP-Soln
-forked by akshatgg/CPP-Soln
-it includes all the soln of odd sem PPS projects
+# PPS-Soln
+forked by akshatgg/CPP-Soln.
+It includes all the soln of odd sem PPS projects in C language.
